@@ -17,4 +17,4 @@ Screenshots of how the app looks
 You can install the [APK](https://github.com/PhoenixJatrix/Animated-Square-Image-Splitter/blob/main/app-release.apk) or just use the raw code and edit as needed
 
 > [!NOTE]
-> It does't look or function as it does in the base [app](https://play.google.com/store/apps/details?id=com.nullinnix.artgpt). Some code is redacted and stripped from this repo
+> It doesn't look or function as it does in the base [app](https://play.google.com/store/apps/details?id=com.nullinnix.artgpt). Some code is redacted and stripped from this repo
